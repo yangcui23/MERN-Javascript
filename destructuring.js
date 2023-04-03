@@ -20,7 +20,7 @@ const { name: otherName } = employee;
 //Predict the output
 console.log(name);
 console.log(otherName);
-//Should be an error? Cuz its not defined?
+//Should be an error, Cuz its not defined
 //Elon
 
 
@@ -37,7 +37,7 @@ const { password: hashedPassword } = person;
 console.log(password);
 console.log(hashedPassword);
 //12345
-//undefined?
+//undefined
 
 4;
 const numbers = [8, 2, 3, 5, 6, 1, 67, 12, 2];
